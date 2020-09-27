@@ -1,7 +1,10 @@
 # Uniswap V2
-The whitepaper:
+The whitepaper ren :
 https://uniswap.org/whitepaper.pdf
 https://learnblockchain.cn/article/1480
+https://eng.ambcrypto.com/uniswap-explained-a-super-detailed-guide-on-uniswap-by-nowpayments/
+
+https://defipulse.com/
 
 sudo npm i -g yarn --registry https://registry.npm.taobao.org
 /usr/local/bin/yarn
