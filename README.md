@@ -3,6 +3,9 @@ The whitepaper ren :
 https://uniswap.org/whitepaper.pdf
 https://learnblockchain.cn/article/1480
 https://eng.ambcrypto.com/uniswap-explained-a-super-detailed-guide-on-uniswap-by-nowpayments/
+https://defirate.com/uniswap-v2/
+https://blog.chain.link/challenges-in-defi-how-to-bring-more-capital-and-less-risk-to-automated-market-maker-dexs/
+https://defiprime.com/uniswap-explained/amp/
 
 https://defipulse.com/
 
