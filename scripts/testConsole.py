@@ -30,6 +30,10 @@ def main():
     tkB.transfer(ezPair.address,500)
     print('token B balance of ezPair:')
     print(tkB.balanceOf(ezPair.address))
+    tkB.transfer(ezPair.address,2200)
+    print(tkB.balanceOf(ezPair.address))
+#    tkB.transfer(ezPair.address,500)
+#    print(tkB.balanceOf(ezPair.address))
 
     
 if __name__ == '__main__':
