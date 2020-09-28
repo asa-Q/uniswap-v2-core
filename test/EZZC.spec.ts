@@ -30,7 +30,7 @@ describe('EZZC', () => {
 
    it('name', async () => {
     const name = await token.name()
-    expect(name).to.eq('Uniswap V2')
+    expect(name).to.eq('EZZC v1.0')
   })
 
 
