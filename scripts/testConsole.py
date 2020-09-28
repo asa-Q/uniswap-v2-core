@@ -20,6 +20,12 @@ ezPair.token1 = tkB
 ezPair.factory = ezFactory
 
 def main():
+    print('token A totalsupply:')
+    print(tkA.totalSupply())
+    print('token A balance Of with ac1:')
+    print(tkA.balanceOf(ac1))
+    print('token A balance Of with ac2:')
+    print(tkA.balanceOf(ac2))
     print('token A balance of ezPair:')
     print(tkA.balanceOf(ezPair.address))
     tkA.transfer(ezPair.address,100)
