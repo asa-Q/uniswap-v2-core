@@ -46,6 +46,7 @@
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
+    "husky": "^4.3.0",
     "waffle": "0.0.4"
   }
 }
